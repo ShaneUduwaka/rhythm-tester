@@ -33,7 +33,7 @@ A Python command-line application that tests your rhythm accuracy and timing con
 3. Run the program:
 
 ```
-python main.py
+python RhyTest.py
 ```
 
 4. Follow the on-screen instructions to complete the rhythm test
